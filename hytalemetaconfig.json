@@ -4,5 +4,11 @@
         "AutoMap": true,
         "Importable": true,
         "ConfigType": "json"
+    },
+    {
+        "ConfigFile": "Server/mods/Nitrado_PerformanceSaver/config.json",
+        "AutoMap": false,
+        "Importable": true,
+        "ConfigType": "json"
     }
 ]
