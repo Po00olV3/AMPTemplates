@@ -32,8 +32,8 @@
   },
   "Tps": {
     "Enabled": true,
-    "TpsLimit": 20,
-    "TpsLimitEmpty": 5,
+    "TpsLimit": 30,
+    "TpsLimitEmpty": 10,
     "OnlyWorlds": [],
     "InitialDelaySeconds": 30.0,
     "CheckIntervalSeconds": 5.0,
